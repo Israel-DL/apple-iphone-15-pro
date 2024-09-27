@@ -12,8 +12,8 @@ const App = () => {
     <main className="bg-black">
       <Navbar />
       <Hero />
-      <Highlights />
-      <NotDoneYet />
+      {/* <Highlights />
+      <NotDoneYet /> */}
       
     </main>
   )
